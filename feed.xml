@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 00:44:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Aug 2026 05:55:13 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[abmurrow.com]]></title>
+            <description><![CDATA[Blog of a web developer, open source contributor, and experimental poetry enthusiast. Sometimes technical, sometimes personal. Always recipes!]]></description>
+            <link>https://abmurrow.com</link>
+            <guid isPermaLink="true">https://abmurrow.com</guid>
+            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[dominikhofer.me]]></title>
             <description><![CDATA[Curious. Creative. Coder. That’s me, Dominik :) I like to learn & understand more about the world we live in. While coming up with cool ideas & designing beautiful things. And bringing them to life with fancy symbols.]]></description>
@@ -1337,18 +1344,11 @@
             <pubDate>Sun, 15 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[burgeonlab.com]]></title>
-            <description><![CDATA[Home of a tech dabbler and serial hobbyist who's learning to integrate IndieWeb practices, covering topics like Hugo web dev, open source, tech how-tos, and more. Weeknotes included.]]></description>
-            <link>https://burgeonlab.com</link>
-            <guid isPermaLink="true">https://burgeonlab.com</guid>
-            <pubDate>Sat, 14 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[abmurrow.com]]></title>
-            <description><![CDATA[Blog of a web developer, open source contributor, and experimental poetry enthusiast. Sometimes technical, sometimes personal. Always recipes!]]></description>
-            <link>https://abmurrow.com</link>
-            <guid isPermaLink="true">https://abmurrow.com</guid>
-            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[exch.gr]]></title>
+            <description><![CDATA[Process Things is a good old fashioned website. It’s a place for me to post about my music, photography, poetry, code, and beyond.]]></description>
+            <link>https://exch.gr</link>
+            <guid isPermaLink="true">https://exch.gr</guid>
+            <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
