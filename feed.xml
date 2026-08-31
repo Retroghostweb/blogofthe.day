@@ -4,8 +4,29 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 28 Aug 2026 08:06:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Aug 2026 02:31:18 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[blog.rtwilson.com]]></title>
+            <description><![CDATA[Robin's Blog, covering geospatial analysis, satellite imaging, Python and more]]></description>
+            <link>https://blog.rtwilson.com</link>
+            <guid isPermaLink="true">https://blog.rtwilson.com</guid>
+            <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[one-from-nippon.ghost.io]]></title>
+            <description><![CDATA[Explore the Japan you've never heard of.]]></description>
+            <link>https://one-from-nippon.ghost.io</link>
+            <guid isPermaLink="true">https://one-from-nippon.ghost.io</guid>
+            <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[alexsirac.com]]></title>
+            <description><![CDATA[A French and English blog that's not about tech.]]></description>
+            <link>https://alexsirac.com</link>
+            <guid isPermaLink="true">https://alexsirac.com</guid>
+            <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[exch.gr]]></title>
             <description><![CDATA[Process Things is a good old fashioned website. It’s a place for me to post about my music, photography, poetry, code, and beyond.]]></description>
@@ -1323,32 +1344,11 @@
             <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[burgeonlab.com]]></title>
-            <description><![CDATA[Home of a tech dabbler and serial hobbyist who's learning to integrate IndieWeb practices, covering topics like Hugo web dev, open source, tech how-tos, and more. Weeknotes included.]]></description>
-            <link>https://burgeonlab.com</link>
-            <guid isPermaLink="true">https://burgeonlab.com</guid>
-            <pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[alexsirac.com]]></title>
-            <description><![CDATA[A French and English blog that's not about tech.]]></description>
-            <link>https://alexsirac.com</link>
-            <guid isPermaLink="true">https://alexsirac.com</guid>
-            <pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[stefanbohacek.com/blog]]></title>
-            <description><![CDATA[Stefan Bohacek's personal blog, covering topics such as web APIs, accessibility, fediverse, data visualization, and creative automation.]]></description>
-            <link>https://stefanbohacek.com/blog</link>
-            <guid isPermaLink="true">https://stefanbohacek.com/blog</guid>
-            <pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[alexsirac.com]]></title>
-            <description><![CDATA[A French and English blog that's not about tech.]]></description>
-            <link>https://alexsirac.com</link>
-            <guid isPermaLink="true">https://alexsirac.com</guid>
-            <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[fnhipster.com]]></title>
+            <description><![CDATA[The chronicles of a webmaster: a stream of consciousness on technology, creativity, and a random series of events.]]></description>
+            <link>https://fnhipster.com</link>
+            <guid isPermaLink="true">https://fnhipster.com</guid>
+            <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
