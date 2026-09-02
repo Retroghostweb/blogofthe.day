@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 01 Sep 2026 02:45:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 02:06:26 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[nelson.cloud]]></title>
+            <description><![CDATA[Personal site of Nelson Figueroa. Writing about programming, cloud infrastructure, cybersecurity, and the tech industry.]]></description>
+            <link>https://nelson.cloud</link>
+            <guid isPermaLink="true">https://nelson.cloud</guid>
+            <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[fnhipster.com]]></title>
             <description><![CDATA[The chronicles of a webmaster: a stream of consciousness on technology, creativity, and a random series of events.]]></description>
@@ -1351,11 +1358,11 @@
             <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[nelson.cloud]]></title>
-            <description><![CDATA[Personal site of Nelson Figueroa. Writing about programming, cloud infrastructure, cybersecurity, and the tech industry.]]></description>
-            <link>https://nelson.cloud</link>
-            <guid isPermaLink="true">https://nelson.cloud</guid>
-            <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[mythcreants.com]]></title>
+            <description><![CDATA[Fiction writing]]></description>
+            <link>https://mythcreants.com</link>
+            <guid isPermaLink="true">https://mythcreants.com</guid>
+            <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
