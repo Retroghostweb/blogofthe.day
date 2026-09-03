@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 02 Sep 2026 02:06:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 02:12:10 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[mythcreants.com]]></title>
+            <description><![CDATA[Fiction writing]]></description>
+            <link>https://mythcreants.com</link>
+            <guid isPermaLink="true">https://mythcreants.com</guid>
+            <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[nelson.cloud]]></title>
             <description><![CDATA[Personal site of Nelson Figueroa. Writing about programming, cloud infrastructure, cybersecurity, and the tech industry.]]></description>
@@ -1351,18 +1358,11 @@
             <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[kiko.io]]></title>
-            <description><![CDATA[Memorable (Tech) Stuff by Kristof Zerbe]]></description>
-            <link>https://kiko.io</link>
-            <guid isPermaLink="true">https://kiko.io</guid>
-            <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[mythcreants.com]]></title>
-            <description><![CDATA[Fiction writing]]></description>
-            <link>https://mythcreants.com</link>
-            <guid isPermaLink="true">https://mythcreants.com</guid>
-            <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[toninotes.cc]]></title>
+            <description><![CDATA[A text-first blog about digital publishing, creator workflows, useful tooling, internet ownership, automation that actually helps, and the infrastructure behind sustainable online work.]]></description>
+            <link>https://toninotes.cc</link>
+            <guid isPermaLink="true">https://toninotes.cc</guid>
+            <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
