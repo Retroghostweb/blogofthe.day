@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 03 Sep 2026 02:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2026 02:12:26 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[toninotes.cc]]></title>
+            <description><![CDATA[A text-first blog about digital publishing, creator workflows, useful tooling, internet ownership, automation that actually helps, and the infrastructure behind sustainable online work.]]></description>
+            <link>https://toninotes.cc</link>
+            <guid isPermaLink="true">https://toninotes.cc</guid>
+            <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[mythcreants.com]]></title>
             <description><![CDATA[Fiction writing]]></description>
@@ -1351,18 +1358,11 @@
             <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[schafe-sind-bessere-rasenmaeher.de]]></title>
-            <description><![CDATA[A little bit of everything, mostly tech and videogames, but also some mindfulness, random thoughts and every now and then a short story.]]></description>
-            <link>https://schafe-sind-bessere-rasenmaeher.de</link>
-            <guid isPermaLink="true">https://schafe-sind-bessere-rasenmaeher.de</guid>
-            <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[toninotes.cc]]></title>
-            <description><![CDATA[A text-first blog about digital publishing, creator workflows, useful tooling, internet ownership, automation that actually helps, and the infrastructure behind sustainable online work.]]></description>
-            <link>https://toninotes.cc</link>
-            <guid isPermaLink="true">https://toninotes.cc</guid>
-            <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[benji.dog]]></title>
+            <description><![CDATA[🇪🇨 benji. not the dog.]]></description>
+            <link>https://benji.dog</link>
+            <guid isPermaLink="true">https://benji.dog</guid>
+            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
